@@ -1,0 +1,23 @@
+learning-notes/
+├─ README.md
+├─ .gitignore
+├─ LICENSE
+├─ 00-roadmap.md
+├─ python/
+│  ├─ fizzbuzz/
+│  │  ├─ README.md
+│  │  └─ fizzbuzz.py
+│  ├─ parsing-args/
+│  │  ├─ README.md
+│  │  └─ main.py
+├─ java/
+│  ├─ palindrome/
+│  │  ├─ README.md
+│  │  └─ Main.java
+├─ js/
+│  ├─ debounce/
+│  │  ├─ README.md
+│  │  └─ debounce.js
+└─ notes/
+   ├─ git-cheatsheet.md
+   └─ liens-utiles.md
